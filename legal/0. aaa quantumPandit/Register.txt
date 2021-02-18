@@ -1,0 +1,1 @@
+Compute has been made Register First instead of Main Memory. 
